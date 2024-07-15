@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+<img align="left" height="180vh" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hadamcode&show_icons=true&locale=en&theme=tokyonight" alt="tbwrigh" />
+<img align="left" height="180vh" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hadamcode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tbwrigh" />
+</p>
